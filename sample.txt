@@ -1,0 +1,2 @@
+bool nat fun ( ? : ) ; [ ] id lit T F 123 0 + & < = ->
+[This file tests all valid keywords, ids, lits, and operators. '->' is put at the end because some students split it into '-' and '>'. 'id' and 'lit' areidentifiers.]
