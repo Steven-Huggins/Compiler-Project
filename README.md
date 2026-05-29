@@ -1,6 +1,6 @@
 # Compiler Project
 
-A small compiler front-end project written in C. The current implementation focuses on lexical analysis and symbol table construction. It reads a source file, scans it into tokens, prints the token stream, stores identifiers in a symbol table, and displays the final symbol table.
+A compiler front-end project written in C. The current implementation focuses on lexical analysis and symbol table construction. It reads a source file, scans it into tokens, prints the token stream, stores identifiers in a symbol table, and displays the final symbol table.
 
 ## Features
 
